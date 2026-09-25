@@ -18,3 +18,37 @@ Video editor | Junior developer<br>I have participated at making video editing a
 ---
 [![](https://komarev.com/ghpvc/?username=L_e_x_a&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# Software & Video Engineering
+
+> *"Transforming raw ideas into high-performance software and cinematic motion."*
+
+---
+
+# 💫 About Me:
+Video editor | Junior Developer <br>
+Co-Founder / Second CEO of **MatrixEdit** (Video Editing App)<br>
+Minecraft Server Creator, Developer, and Infrastructure Specialist.
+
+---
+
+# 🚀 Featured Project: MatrixEdit
+> **Role:** Co-Founder / Second CEO  
+> **Overview:** Co-led the development of **MatrixEdit**, a high-performance video editing application built completely from scratch over a month and a half of intensive development. Co-managed team workflow, release roadmaps, and project architecture alongside the lead CEO.  
+> **Core Technical Stack:** Leveraged **C++** and **Qt** for core video processing and GUI performance, using **CMake** for multi-platform build configurations and **Shell scripts** for build automation and workflow efficiency.
+
+---
+
+# 🛠️ Minecraft Server Engineering & Administration
+
+### 🔹 PeacefulCraft
+* **Role:** Developer & System Administrator
+* **Responsibilities:** Assisted administration and moderation with deep system configuration, backend files, and console management. Engineered **Velocity / Bungeecord** network architecture, custom perks, and UI designs.
+
+### 🔹 Raxiopa SMP
+* **Role:** Administrator & Technical Assistant
+* **Responsibilities:** Handled server moderation via console management, developed custom perks, UI design, and integrated custom Telegram bots.
+
+---
+
+
+[![](https://komarev.com/ghpvc/?username=L_e_x_a&icon=0&color=0)](https://visitcount.itsvg.in)
